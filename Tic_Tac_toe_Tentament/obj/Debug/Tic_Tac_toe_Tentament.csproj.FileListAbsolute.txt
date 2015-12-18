@@ -1,0 +1,15 @@
+D:\School\Skola\C# Fortsättning\Tentament\Tic_Tac_toe_Tentament\Tic_Tac_toe_Tentament\bin\Debug\Tic_Tac_toe_Tentament.exe.config
+D:\School\Skola\C# Fortsättning\Tentament\Tic_Tac_toe_Tentament\Tic_Tac_toe_Tentament\bin\Debug\Tic_Tac_toe_Tentament.exe
+D:\School\Skola\C# Fortsättning\Tentament\Tic_Tac_toe_Tentament\Tic_Tac_toe_Tentament\bin\Debug\Tic_Tac_toe_Tentament.pdb
+D:\School\Skola\C# Fortsättning\Tentament\Tic_Tac_toe_Tentament\Tic_Tac_toe_Tentament\obj\Debug\MainWindow.g.cs
+D:\School\Skola\C# Fortsättning\Tentament\Tic_Tac_toe_Tentament\Tic_Tac_toe_Tentament\obj\Debug\App.g.cs
+D:\School\Skola\C# Fortsättning\Tentament\Tic_Tac_toe_Tentament\Tic_Tac_toe_Tentament\obj\Debug\Tic_Tac_toe_Tentament_MarkupCompile.cache
+D:\School\Skola\C# Fortsättning\Tentament\Tic_Tac_toe_Tentament\Tic_Tac_toe_Tentament\obj\Debug\Tic_Tac_toe_Tentament_MarkupCompile.lref
+D:\School\Skola\C# Fortsättning\Tentament\Tic_Tac_toe_Tentament\Tic_Tac_toe_Tentament\obj\Debug\MainWindow.baml
+D:\School\Skola\C# Fortsättning\Tentament\Tic_Tac_toe_Tentament\Tic_Tac_toe_Tentament\obj\Debug\Tic_Tac_toe_Tentament.g.resources
+D:\School\Skola\C# Fortsättning\Tentament\Tic_Tac_toe_Tentament\Tic_Tac_toe_Tentament\obj\Debug\Tic_Tac_toe_Tentament.Properties.Resources.resources
+D:\School\Skola\C# Fortsättning\Tentament\Tic_Tac_toe_Tentament\Tic_Tac_toe_Tentament\obj\Debug\Tic_Tac_toe_Tentament.csproj.GenerateResource.Cache
+D:\School\Skola\C# Fortsättning\Tentament\Tic_Tac_toe_Tentament\Tic_Tac_toe_Tentament\obj\Debug\Tic_Tac_toe_Tentament.exe
+D:\School\Skola\C# Fortsättning\Tentament\Tic_Tac_toe_Tentament\Tic_Tac_toe_Tentament\obj\Debug\Tic_Tac_toe_Tentament.pdb
+D:\School\Skola\C# Fortsättning\Tentament\Tic_Tac_toe_Tentament\Tic_Tac_toe_Tentament\obj\Debug\Tic_Tac_toe_Tentament.csprojResolveAssemblyReference.cache
+D:\School\Skola\C# Fortsättning\Tentament\Tic_Tac_toe_Tentament\Tic_Tac_toe_Tentament\obj\Debug\App.baml
